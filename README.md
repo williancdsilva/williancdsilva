@@ -5,4 +5,4 @@ mais amigável e ágil na construção de aplicativos.
 Tenho a intenção de ser um especialista em dados, auxiliando negócios a buscarem
 melhores resultados, respeitando a Lei Geral.
 
-As linguagens que mais me identifico são C, JAVA e Python.
+As linguagens que mais me identifico são C, JAVA, Python e, atualmente, Ruby com Rails.
