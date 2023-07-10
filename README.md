@@ -20,6 +20,6 @@ Soluções modernas e eficientes, sem esquecer a performance.
 
 ## 📫 Contato
 
-- Email: williancdsilva@gmail.com
+- williancdsilva@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/willian-costa-damasceno-da-silva-04184049/)
 - [Instagram](https://www.instagram.com/williancdsilva/)
