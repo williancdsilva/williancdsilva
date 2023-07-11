@@ -2,10 +2,10 @@
 
 ![Banner](https://ygpxgpdlhythegrvfsqb.supabase.co/storage/v1/object/public/assets_public/web3.png)
 
-Meu objetivo é tornar o dia a dia das pessoas mais produtivo e sem stress.
+Meu objetivo é tornar o dia a dia das pessoas mais **produtivo** e sem stress.
 Ajudar a construir uma internet fácil de usar,
-simplificar a tecnologia, tornando-a acessível e intuitiva para todos.
-Soluções modernas e eficientes, sem esquecer a performance.
+simplificar a tecnologia, tornando-a acessível e **intuitiva** para todos.
+Soluções modernas e eficientes, sem esquecer o **desempenho**.
 
 ## 👨‍💻 Minha Especialidade
 
