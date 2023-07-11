@@ -16,10 +16,10 @@ Soluções modernas e eficientes, sem esquecer o **desempenho**.
 
 ## 🚀 Tecnologias e Ferramentas
 
-![Banner tecnologias e ferramentas](https://ygpxgpdlhythegrvfsqb.supabase.co/storage/v1/object/public/assets_public/banner.png)
+![Banner tecnologias e ferramentas](https://ygpxgpdlhythegrvfsqb.supabase.co/storage/v1/object/public/assets_public/banner-techs.png)
 
 ## 📫 Contato
 
-- williancdsilva@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/willian-costa-damasceno-da-silva-04184049/)
-- [Instagram](https://www.instagram.com/williancdsilva/)
+[![Enviar email para Willian Damasceno](https://ygpxgpdlhythegrvfsqb.supabase.co/storage/v1/object/public/assets_public/gmail-button.png "williancdsilva@gmail.com")](mailto:williancdsilva@gmail.com)
+
+[![Abrir LinkedIn de Willian Damasceno](https://ygpxgpdlhythegrvfsqb.supabase.co/storage/v1/object/public/assets_public/linkedin-button.png "LinkedIn")](https://www.linkedin.com/in/willian-costa-damasceno-da-silva-04184049/)
